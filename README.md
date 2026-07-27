@@ -17,41 +17,41 @@ This portfolio highlights my journey as a Computer Science student and Full Stac
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎨 Modern and Responsive UI
-- 🌙 Dark Theme
-- 📱 Mobile-Friendly Design
-- ⚡ Smooth Animations
-- 👨‍💻 About Me Section
-- 🛠 Skills Section
-- 📂 Project Showcase
-- 📄 Resume Download
-- 📞 Contact Section
-- 🔗 Social Media Links
+ Modern and Responsive UI
+ Dark Theme
+ Mobile-Friendly Design
+ Smooth Animations
+ About Me Section
+ Skills Section
+ Project Showcase
+ Resume Download
+ Contact Section
+ Social Media Links
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
+ HTML5
+ CSS3
+ JavaScript
+ React.js
+ Tailwind CSS
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+ Git
+ GitHub
+ VS Code
 
 ### Deployment
-- Vercel
+ Vercel
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 Portfolio_Website/
@@ -65,7 +65,6 @@ Portfolio_Website/
 │   ├── projects.png
 │   ├── contact.png
 │── README.md
-│── package.json
 ```
 
 ---
@@ -104,39 +103,39 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Home Page
+###  Home Page
 
 ![Home](screenshots/home.png)
 
 ---
 
-### 👤 About Section
+###  About Section
 
 ![About](screenshots/about.png)
 
 ---
 
-### 💻 Skills Section
+###  Skills Section
 
 ![Skills](screenshots/skills.png)
 
 ---
 
-### 📂 Projects Section
+###  Projects Section
 
 ![Projects](screenshots/projects.png)
 
 ---
 
-### 📞 Contact Section
+###  Contact Section
 
 ![Contact](screenshots/contact.png)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shabab Ahmed**
 
@@ -148,7 +147,7 @@ http://localhost:5173
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -156,12 +155,12 @@ If you'd like to improve this project, feel free to fork the repository and subm
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you like this project, don't forget to ⭐ the repository.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
