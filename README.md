@@ -55,15 +55,13 @@ This portfolio highlights my journey as a Computer Science student and Full Stac
 
 ```
 Portfolio_Website/
-│── public/
-│── src/
-│── assets/
+│── portfolio.html/
 │── screenshots/
-│   ├── home.png
 │   ├── about.png
-│   ├── skills.png
+│   ├── contacts.png
+│   ├── home.png
+│   ├── profiles and certifications.png
 │   ├── projects.png
-│   ├── contact.png
 │── README.md
 ```
 
