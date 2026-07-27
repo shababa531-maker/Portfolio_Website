@@ -1,5 +1,5 @@
 # Portfolio_Website
-# 🌐 Portfolio Website
+# Portfolio Website
 
 A modern, responsive personal portfolio website built to showcase my skills, projects, education, and achievements. The portfolio is designed with a clean UI, smooth animations, and a fully responsive layout to provide an excellent experience across all devices.
 
@@ -100,40 +100,6 @@ The application will run at:
 ```
 http://localhost:5173
 ```
-
----
-
-##  Screenshots
-
-###  Home Page
-
-![Home](screenshots/home.png)
-
----
-
-###  About Section
-
-![About](screenshots/about.png)
-
----
-
-###  Skills Section
-
-![Skills](screenshots/skills.png)
-
----
-
-###  Projects Section
-
-![Projects](screenshots/projects.png)
-
----
-
-###  Contact Section
-
-![Contact](screenshots/contact.png)
-
----
 
 ##  Author
 
