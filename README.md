@@ -5,13 +5,13 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 https://shabab-portfolio-alpha.vercel.app/
 
 ---
 
-## 📖 About
+##  About
 
 This portfolio highlights my journey as a Computer Science student and Full Stack Developer. It includes information about me, my technical skills, featured projects, certifications, education, and contact details.
 
@@ -69,7 +69,7 @@ Portfolio_Website/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the Repository
 
@@ -139,11 +139,11 @@ http://localhost:5173
 
 **Shabab Ahmed**
 
-📧 Email: shababali8179@gmail.com
+ Email: shababali8179@gmail.com
 
-🔗 GitHub: https://github.com/shababa531-maker
+ GitHub: https://github.com/shababa531-maker
 
-🔗 LinkedIn: https://www.linkedin.com/in/shabab-ahmed-30a554378/
+ LinkedIn: https://www.linkedin.com/in/shabab-ahmed-30a554378/
 
 ---
 
@@ -157,7 +157,7 @@ If you'd like to improve this project, feel free to fork the repository and subm
 
 ##  Support
 
-If you like this project, don't forget to ⭐ the repository.
+If you like this project, don't forget to  the repository.
 
 ---
 
