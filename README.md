@@ -55,7 +55,7 @@ This portfolio highlights my journey as a Computer Science student and Full Stac
 
 ```
 Portfolio_Website/
-│── portfolio.html/
+│── index.html/
 │── screenshots/
 │   ├── about.png
 │   ├── contacts.png
