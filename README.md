@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website built to showcase my skills, pro
 
 ##  Live Demo
 
-https://shabab-portfolio-alpha.vercel.app/
+https://shabab-ahmed-portfolio.vercel.app/
 
 ---
 
