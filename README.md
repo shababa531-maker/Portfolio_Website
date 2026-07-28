@@ -63,6 +63,7 @@ Portfolio_Website/
 │   ├── profiles and certifications.png
 │   ├── projects.png
 │── README.md
+│── logo.png
 ```
 
 ---
